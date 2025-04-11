@@ -1,14 +1,16 @@
 # Edge Nuker
 
 **Author:** Henry Jones  
-**License:** [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)  
+
+![License: CC BY-SA 4.0](https://img.shields.io/badge/license-CC%20BY--SA%204.0-blue)
+![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4-red)
 
 ---
 ## 📖 Tutorial Video
 [![Watch the tutorial video](https://img.youtube.com/vi/hpc_7wbUAvw/0.jpg)](https://www.youtube.com/watch?v=hpc_7wbUAvw)
 
-
 ---
+
 ## 🚀 About
 Edge Nuker is a powerful batch script designed to *fully disable* Microsoft Edge from Windows systems. Whether you're reclaiming control, minimizing bloat, or just tired of pop-ups asking you to "try Edge," this tool is your ticket to freedom.
 
