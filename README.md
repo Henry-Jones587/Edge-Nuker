@@ -5,7 +5,8 @@
 
 ---
 ## 📖 Tutorial Video
-[How to use the Edge Nuker tool to uninstall Microsoft Edge](https://www.youtube.com/watch?v=hpc_7wbUAvw)
+[![Watch the tutorial video](https://img.youtube.com/vi/hpc_7wbUAvw/0.jpg)](https://www.youtube.com/watch?v=hpc_7wbUAvw)
+
 
 ---
 ## 🚀 About
