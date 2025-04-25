@@ -26,6 +26,9 @@ del /f /q %SHORTCUT_USER% 2>nul
 echo Disabling web search from Start Menu...
 reg add "HKCU\Software\Policies\Microsoft\Windows\Explorer" /v DisableSearchBoxSuggestions /t REG_DWORD /d 1 /f
 
+echo Modifying registry to allow Edge removal...
+reg add "HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Microsoft Edge" /v NoRemove /t REG_DWORD /d 0 /f
+
 echo Done. Microsoft Edge has been retired.
 pause
 exit /b
